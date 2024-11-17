@@ -1,5 +1,26 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Vitor and I'm a Web Developer, from São Paulo - Brasil </p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+
+
+
+
 <div style="display: inline_block"><br>
+
+  
+  
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="NODEJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
