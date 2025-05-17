@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vitor and I'm a Web Developer, from São Paulo - Brasil </p>
+<p align="left">My name is Vitor and I'm a Developer, from São Paulo - Brasil </p>
 
 ###
 
