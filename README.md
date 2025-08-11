@@ -20,20 +20,6 @@
   <img alt="Adobe Illustrator" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 </div>
 
----
-
-<h2 align="left">🎯 Sobre mim</h2>
-
-<p align="left">
-  Sou uma pessoa  calma e focada em crescer na área de desenvolvimento e qualidade de software.
-  Gosto de projetos práticos, aprender com a experiência e enfrentar desafios de frente.
-</p>
-
-<p align="left">
-  Já passei por momentos difíceis, como o bullying, e isso me fez mais forte e sociável. Hoje minha motivação vem da ambição de evoluir sempre e do amor pelo esporte.
-</p>
-
----
 
 <h2 align="left">📫 Me encontre por aqui</h2>
 
